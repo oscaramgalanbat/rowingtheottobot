@@ -8,7 +8,7 @@
 <div class="icons">
     <span class="icon good"></span>
     <span class="icon bad"></span>
-    <span class="icon neutral"></span>
+ <span class="icon neutral"></span>
     <span class="icon bad"></span>
     <span class="icon good"></span>
 </div>
